@@ -1,0 +1,22 @@
+# Gradle build output
+.gradle/
+build/
+**/build/
+
+# Machine-specific SDK path
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Signing keys
+*.jks
+*.keystore
+
+# Live Firebase config. Kept on this PC so the app can build, not uploaded.
+app/google-services.json
+app/google-services(1).json
