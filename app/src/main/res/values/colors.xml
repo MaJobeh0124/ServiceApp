@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#1565C0</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#42A5F5</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFA000</color>
+
+    <!-- Background Colors -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_card">#FFFFFF</color>
+    <color name="splash_background">#1565C0</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_accent">#FF6F00</color>
+
+    <!-- Status Colors -->
+    <color name="color_online">#4CAF50</color>
+    <color name="color_offline">#9E9E9E</color>
+    <color name="color_busy">#F44336</color>
+    <color name="color_pending">#FF9800</color>
+    <color name="color_success">#4CAF50</color>
+    <color name="color_error">#F44336</color>
+    <color name="color_warning">#FFC107</color>
+
+    <!-- UI Elements -->
+    <color name="divider">#E0E0E0</color>
+    <color name="card_shadow">#1A000000</color>
+    <color name="ripple">#1A1565C0</color>
+    <color name="star_rating">#FFC107</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#1565C0</color>
+    <color name="gradient_end">#0D47A1</color>
+
+    <!-- Service Category Colors -->
+    <color name="cat_plumbing">#2196F3</color>
+    <color name="cat_electrical">#FFC107</color>
+    <color name="cat_mechanic">#F44336</color>
+    <color name="cat_cleaning">#4CAF50</color>
+    <color name="cat_gardening">#8BC34A</color>
+    <color name="cat_painting">#9C27B0</color>
+    <color name="cat_carpentry">#795548</color>
+    <color name="cat_security">#607D8B</color>
+</resources>

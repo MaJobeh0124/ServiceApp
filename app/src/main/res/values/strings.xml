@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ServiceApp</string>
+    <string name="app_tagline">Your trusted service marketplace</string>
+
+    <!-- Auth -->
+    <string name="welcome_title">Welcome to ServiceApp</string>
+    <string name="welcome_subtitle">Connect with trusted professionals near you</string>
+    <string name="login">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Log Out</string>
+    <string name="email">Email Address</string>
+    <string name="username">Username</string>
+    <string name="phone_number">Cellphone Number</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="already_have_account">Already have an account? Log In</string>
+    <string name="dont_have_account">Don\'t have an account? Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="i_am_a_client">I need a service</string>
+    <string name="i_am_a_provider">I provide services</string>
+
+    <!-- Home -->
+    <string name="select_service">What service do you need?</string>
+    <string name="search_services">Search services…</string>
+    <string name="popular_services">Popular Services</string>
+    <string name="all_services">All Services</string>
+
+    <!-- Services -->
+    <string name="plumbing">Plumbing</string>
+    <string name="electrical">Electrical</string>
+    <string name="mechanic">Mechanic</string>
+    <string name="cleaning">Cleaning</string>
+    <string name="gardening">Gardening</string>
+    <string name="painting">Painting</string>
+    <string name="carpentry">Carpentry</string>
+    <string name="security">Security</string>
+
+    <!-- Searching -->
+    <string name="searching_providers">Searching for providers near you…</string>
+    <string name="providers_found">Providers found nearby</string>
+    <string name="no_providers">No providers found in your area</string>
+    <string name="request_service">Request Service</string>
+    <string name="accept_request">Accept Request</string>
+    <string name="decline_request">Decline</string>
+
+    <!-- Chat -->
+    <string name="chat_room">Chat Room</string>
+    <string name="type_message">Type a message…</string>
+    <string name="send">Send</string>
+    <string name="attach_image">Attach Image</string>
+    <string name="quote_accepted">Accept Quote</string>
+    <string name="accept_provider">Accept Provider</string>
+
+    <!-- Tracking -->
+    <string name="provider_on_way">Provider is on the way</string>
+    <string name="provider_arrived">Provider has arrived!</string>
+    <string name="service_in_progress">Service in progress</string>
+    <string name="job_completed">Job Completed</string>
+    <string name="close_ticket">Close Ticket</string>
+
+    <!-- Rating -->
+    <string name="rate_experience">Rate your experience</string>
+    <string name="leave_comment">Leave a comment…</string>
+    <string name="submit_rating">Submit Rating</string>
+    <string name="rate_client">Rate the client</string>
+
+    <!-- Location -->
+    <string name="location_permission_required">Location permission required to find service providers near you.</string>
+    <string name="sharing_location">Sharing your location with the provider…</string>
+    <string name="location_shared">Location shared with provider</string>
+
+    <!-- Errors -->
+    <string name="error_empty_fields">Please fill in all required fields</string>
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_password_short">Password must be at least 6 characters</string>
+    <string name="error_login_failed">Login failed. Please check your credentials.</string>
+    <string name="error_signup_failed">Sign up failed. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_location">Could not get your location. Please try again.</string>
+</resources>
